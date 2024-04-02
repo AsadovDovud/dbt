@@ -1,0 +1,1 @@
+select * from  `mohirdev-bigquery.dbt_dasadov.my_first_dbt_model`
